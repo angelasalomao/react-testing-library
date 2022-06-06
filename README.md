@@ -1,6 +1,6 @@
 # Projeto React Testing Library
 
-Projeto desenvolvido durante o curso da Trybe para o bloco de Testes Automatizados com RTL, em que será desenvolvido testes para uma aplicação pronta.
+Projeto desenvolvido durante o curso da Trybe para o bloco de Testes Automatizados com RTL, em que foi desenvolvido testes para uma aplicação pronta.
 
 ### Desenvolvimento
 
